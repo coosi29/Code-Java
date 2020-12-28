@@ -1,2 +1,2 @@
-# Code-Java
+# code-java-web-lab
 Java Web Lab
